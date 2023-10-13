@@ -19,10 +19,3 @@ Bu repository, özel bir `ft_printf` fonksiyonunu içerir. Bu fonksiyon, C progr
 ```c
 ft_printf("Merhaba, %s! Bugün %d. gün.", "Dünya", 42);
 
-
-#include "ft_printf.h"
-
-int main() {
-    ft_printf("Merhaba, %s! Bugün %d. gün.", "Dünya", 42);
-    return (0);
-}
